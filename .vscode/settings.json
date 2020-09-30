@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/17319a4a-f304-4a97-9a4b-79b4401ddf44/resourceGroups/Meeps/providers/Microsoft.Web/sites/WelcumToDiscord",
+    "appService.deploySubpath": ""
+}
