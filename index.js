@@ -15,7 +15,7 @@ client.on('ready', () => {
     )
 })
 
-client.login('NzYwNDAyODY0NjYwMTUyMzIw.X3LiWg.RvEUpM2LFunP_Xqrh8gJOl24kgs')
+client.login('[redacted]')
 
 client.on('message', async message => {
   if (message.author.bot) return
